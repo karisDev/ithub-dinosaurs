@@ -1,0 +1,10 @@
+.venv
+.env
+
+__pycache__/
+*.pyc
+*.csv
+*.json
+.idea/
+node_modules/
+.vite/
